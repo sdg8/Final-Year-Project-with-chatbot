@@ -1,0 +1,126 @@
+/* HTML TAGS */
+body
+{
+  margin: 0;
+  text-align: center;
+}
+
+/* CLASS TAGS */
+
+/* container */
+.container-fluid
+{
+  padding:  3% 15% 7%;
+}
+
+/* Home */
+
+/* navbar */
+.nav-item
+{
+  padding: 0 18px;
+}
+.name-heading{
+  padding: 1.5rem 0;
+  margin: inherit;
+  font-size: 5rem;
+  line-height: 1.5;
+  font-family: 'Homemade Apple', cursive;
+  font-weight: lighter;
+}
+.home-image
+{
+  width: 40%;
+
+}
+
+/* Know Us */
+
+.know-us-images
+{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 20px;
+}
+.descriptions
+{
+  padding: 1.75rem;
+  line-height: 1.5;
+}
+.start
+{
+  float: right;
+}
+.about
+{
+  padding: 1rem;
+}
+
+/* Gallery */
+
+.card
+{
+  margin: 10px;
+
+}
+.gallery-responsive
+{
+  padding-top: 100px;
+}
+/* Product */
+.product-divs
+{
+  padding: 7%;
+  text-align: center;
+}
+.product-col
+{
+    padding: 3%;
+}
+.product-logo
+{
+  border-radius: 50%;
+  width: 40%;
+  margin-bottom: 100px;
+}
+.product-description
+{
+  text-align: justify;
+}
+/* Contact */
+.contact-details
+{
+  padding: 10% 3% 0 10%;
+  text-align: left;
+}
+.contact-col
+{
+
+}
+.contact-text
+{
+  text-align: left;
+}
+.contact-icon
+{
+float: left;
+ }
+/* Footer */
+ .footer-icon
+ {
+   margin: 10px;
+   padding-bottom: 20px
+ }
+ .Copyright
+ {
+   margin: 0;
+   size: 1px;
+ }
+#product
+{
+text-align:center;
+
+}
+
